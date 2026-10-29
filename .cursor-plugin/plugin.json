@@ -1,0 +1,14 @@
+{
+  "name": "hyperresearch-answers",
+  "displayName": "Hyperresearch Answers",
+  "version": "1.0.0",
+  "description": "Every search provider has gaps. Hyperresearch layers 4 web search engines and 45 data sources into one search tool for AI agents. Verified answers, fewer tokens.",
+  "author": {
+    "name": "Hyperresearch",
+    "email": "jordan@hyperresearch.ai"
+  },
+  "homepage": "https://hyperresearch.ai/answers",
+  "license": "MIT",
+  "keywords": ["search", "research", "mcp", "citations", "data", "web-search"],
+  "logo": "assets/logo.png"
+}
